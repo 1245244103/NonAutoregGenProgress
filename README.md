@@ -45,6 +45,7 @@ Non-Autoregressive Generation Progress
 - [ACL] [Improving Non-autoregressive Neural Machine Translation with Monolingual Data](https://www.aclweb.org/anthology/2020.acl-main.171.pdf)
 - [ACL] [A Study of Non-autoregressive Model for Sequence Generation](https://www.aclweb.org/anthology/2020.acl-main.15.pdf)
 - [ICML] [Non-Autoregressive Neural Text-to-Speech](https://arxiv.org/pdf/1905.08459.pdf)
+<br> a non-autoregressive seq2seq model that converts text to speech
 - [ICML] [Aligned Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.01655.pdf)
 - [ICML] [Parallel Machine Translation with Disentangled Context Transformer](https://arxiv.org/pdf/2001.05136.pdf)
 - [ICML] [Imputer: Sequence Modelling via Imputation and Dynamic Programming](https://arxiv.org/pdf/2002.08926.pdf)
