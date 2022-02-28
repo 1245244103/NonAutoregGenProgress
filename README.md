@@ -71,7 +71,8 @@ Non-Autoregressive Generation Progress
 - [EMNLP] [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://arxiv.org/pdf/1802.06901.pdf)  
 a conditional non-autoregressive neural sequence model based on iterative refinement;machine translation image caption generation
 - [EMNLP] [End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification](https://arxiv.org/pdf/1811.04719.pdf)
-- [ICLR] [Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1711.02281.pdf)  Machine Translation
+- [ICLR] [Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1711.02281.pdf)
+Machine Translation
 
 # Contact
 Changhan Wang ([wangchanghan@gmail.com](mailto:wangchanghan@gmail.com))
