@@ -9,6 +9,7 @@ Non-Autoregressive Generation Progress
 - [EMNLP] [AligNART: Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate](https://aclanthology.org/2021.emnlp-main.1.pdf)
 - [ICML] [Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2106.05093.pdf)
 - [ICML] [BANG: Bridging Autoregressive and Non-autoregressive Generation with Large Scale Pretraining](https://arxiv.org/pdf/2012.15525.pdf)
+<br>A pretrained model can simultaneously support AR, NAR and semi-NAR generation ;  question generation , summarization , dialogue generation
 - [ACL] [Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation](https://arxiv.org/pdf/2106.00903.pdf)
 - [ACL] [Progressive Multi-Granularity Training for Non-Autoregressive Translation](https://arxiv.org/pdf/2106.05546.pdf)
 - [ACL] [GLAT: Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/2008.07905.pdf)
@@ -69,10 +70,10 @@ Non-Autoregressive Generation Progress
 ### 2018
 - [ICML] [Fast Decoding in Sequence Models Using Discrete Latent Variables](https://arxiv.org/pdf/1803.03382.pdf)
 - [EMNLP] [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://arxiv.org/pdf/1802.06901.pdf)
-a conditional non-autoregressive neural sequence model based on iterative refinement;machine translation image caption generation
+<br>a conditional non-autoregressive neural sequence model based on iterative refinement ; machine translation , image caption generation
 - [EMNLP] [End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification](https://arxiv.org/pdf/1811.04719.pdf)
 - [ICLR] [Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1711.02281.pdf)
-Machine Translation
+<br>Machine Translation
 
 # Contact
 Changhan Wang ([wangchanghan@gmail.com](mailto:wangchanghan@gmail.com))
