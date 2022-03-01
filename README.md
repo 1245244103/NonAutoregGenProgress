@@ -61,6 +61,7 @@ Non-Autoregressive Generation Progress
 
 ### 2019
 - [arXiv] [Non-autoregressive Transformer by Position Learning](https://arxiv.org/pdf/1911.10677.pdf)
+<br>a non-autoregressive model which incorporates positions as a latent variable into the text generative process ; machine translation , paraphrase generation
 - [NeurIPS] [Levenshtein Transformer](https://papers.nips.cc/paper/9297-levenshtein-transformer.pdf)
 - [NeurIPS] [Fast Structured Decoding for Sequence Models](https://arxiv.org/pdf/1910.11555.pdf)
 - [NeurIPS] [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/pdf/1905.09263.pdf)
