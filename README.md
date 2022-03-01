@@ -73,8 +73,9 @@ Non-Autoregressive Generation Progress
 - [ACL] [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.09444.pdf)
 - [ACL] [Imitation Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.02041.pdf)
 - [AAAI] [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/pdf/1902.10245.pdf)
-<br>address repeated translations and incomplete translations by improving the quality of decoder hidden representations via two auxiliary regularization terms in the training process of an NAT model
+<br>address repeated translations and incomplete translations by improving the quality of decoder hidden representations via two auxiliary regularization terms in the training process of an NAT model ; Machine Translation
 - [AAAI] [Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input](https://arxiv.org/pdf/1812.09664.pdf)
+<br>two methods to enhance the decoder inputs so as to improve NAT models ; Machine Translation
 
 ### 2018
 - [ICML] [Fast Decoding in Sequence Models Using Discrete Latent Variables](https://arxiv.org/pdf/1803.03382.pdf)
