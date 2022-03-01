@@ -22,6 +22,7 @@ Non-Autoregressive Generation Progress
 - [NAACL] [Non-Autoregressive Translation by Learning Target Categorical Codes](https://www.aclweb.org/anthology/2021.naacl-main.458.pdf)
 - [NAACL] [Multi-Task Learning with Shared Encoder for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/2021.naacl-main.313.pdf)
 - [ICLR] [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C)
+<br>alleviate the problem of the lexical choice errors on low-frequency words which are propagated to the NAT model from the teacher model ; Machine Translation
 - [AAAI] [Guiding Non-Autoregressive Neural Machine Translation Decoding with Reordering Information](https://arxiv.org/pdf/1911.02215.pdf)
 - [ICASSP] [Parallel tacotron: Non-autoregressive and controllable tts](https://arxiv.org/pdf/2010.11439.pdf?ref=https://githubhelp.com)
 <br>a non-autoregressive neural text-to-speech model augmented with a variational autoencoder based residual encoder
