@@ -28,6 +28,7 @@ Non-Autoregressive Generation Progress
 <br>a non-autoregressive neural text-to-speech model augmented with a variational autoencoder based residual encoder
 ### 2020
 - [arXiv] [Listen and Fill in the Missing Letters: Non-Autoregressive Transformer for Speech Recognition](https://arxiv.org/pdf/1911.04908.pdf)
+<br>two different non-autoregressive transformer structure for automatic speech recognition (ASR): A-CMLM and A-FMLM.
 - [arXiv] [Non-Autoregressive Neural Dialogue Generation](https://arxiv.org/pdf/2002.04250.pdf)
 - [arXiv] [Improving Fluency of Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.03227.pdf)
 - [arXiv] [Semi-Autoregressive Training Improves Mask-Predict Decoding](https://arxiv.org/pdf/2001.08785.pdf)
