@@ -51,6 +51,7 @@ Non-Autoregressive Generation Progress
 - [ICML] [Non-Autoregressive Neural Text-to-Speech](https://arxiv.org/pdf/1905.08459.pdf)
 <br> a non-autoregressive seq2seq model that converts text to speech
 - [ICML] [Aligned Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.01655.pdf)
+<br>propose aligned cross entropy (AXE) as an alternative loss function for training of non-autoregressive models ; Machine Translation
 - [ICML] [Parallel Machine Translation with Disentangled Context Transformer](https://arxiv.org/pdf/2001.05136.pdf)
 - [ICML] [Imputer: Sequence Modelling via Imputation and Dynamic Programming](https://arxiv.org/pdf/2002.08926.pdf)
 - [ICML] [An EM Approach to Non-autoregressive Conditional Sequence Generation](https://arxiv.org/pdf/2006.16378.pdf)
