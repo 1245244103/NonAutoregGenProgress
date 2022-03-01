@@ -45,6 +45,7 @@ Non-Autoregressive Generation Progress
 - [ACL] [ENGINE: Energy-Based Inference Networks for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/2020.acl-main.251.pdf)
 - [ACL] [Improving Non-autoregressive Neural Machine Translation with Monolingual Data](https://www.aclweb.org/anthology/2020.acl-main.171.pdf)
 - [ACL] [A Study of Non-autoregressive Model for Sequence Generation](https://www.aclweb.org/anthology/2020.acl-main.15.pdf)
+<br>a study to understand the difficulty of NAR sequence generation
 - [ICML] [Non-Autoregressive Neural Text-to-Speech](https://arxiv.org/pdf/1905.08459.pdf)
 <br> a non-autoregressive seq2seq model that converts text to speech
 - [ICML] [Aligned Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.01655.pdf)
@@ -63,6 +64,7 @@ Non-Autoregressive Generation Progress
 - [NeurIPS] [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/pdf/1905.09263.pdf)
 - [EMNLP] [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/pdf/1904.09324.pdf)
 - [EMNLP] [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480.pdf)
+<br>a non-autoregressive sequence generation using latent variable models ; Machine Translation
 - [EMNLP] [Hint-Based Training for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/D19-1573.pdf)
 - [ACL] [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.09444.pdf)
 - [ACL] [Imitation Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.02041.pdf)
