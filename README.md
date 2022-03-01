@@ -24,7 +24,7 @@ Non-Autoregressive Generation Progress
 - [ICLR] [Understanding and Improving Lexical Choice in Non-Autoregressive Translation](https://openreview.net/pdf?id=ZTFeSBIX9C)
 - [AAAI] [Guiding Non-Autoregressive Neural Machine Translation Decoding with Reordering Information](https://arxiv.org/pdf/1911.02215.pdf)
 - [ICASSP] [Parallel tacotron: Non-autoregressive and controllable tts](https://arxiv.org/pdf/2010.11439.pdf?ref=https://githubhelp.com)
-<br>a non-autoregressive neural text-to-speech model augmented with a variational autoencoderbased residual encoder
+<br>a non-autoregressive neural text-to-speech model augmented with a variational autoencoder based residual encoder
 ### 2020
 - [arXiv] [Listen and Fill in the Missing Letters: Non-Autoregressive Transformer for Speech Recognition](https://arxiv.org/pdf/1911.04908.pdf)
 - [arXiv] [Non-Autoregressive Neural Dialogue Generation](https://arxiv.org/pdf/2002.04250.pdf)
