@@ -79,7 +79,7 @@ Non-Autoregressive Generation Progress
 ### 2018
 - [ICML] [Fast Decoding in Sequence Models Using Discrete Latent Variables](https://arxiv.org/pdf/1803.03382.pdf)
 <br>first autoencode the target sequence into a shorter sequence of discrete latent variables autoregressively and finally decode the output sequence from this shorter latent
-sequence in parallel.
+sequence in parallel ; Machine Translation
 - [EMNLP] [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://arxiv.org/pdf/1802.06901.pdf)
 <br>a conditional non-autoregressive neural sequence model based on iterative refinement ; machine translation , image caption generation
 - [EMNLP] [End-to-End Non-Autoregressive Neural Machine Translation with Connectionist Temporal Classification](https://arxiv.org/pdf/1811.04719.pdf)
