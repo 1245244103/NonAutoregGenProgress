@@ -71,7 +71,10 @@ Non-Autoregressive Generation Progress
 <br>a non-autoregressive sequence generation using latent variable models ; Machine Translation
 - [EMNLP] [Hint-Based Training for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/D19-1573.pdf)
 - [ACL] [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.09444.pdf)
+<br>propose a sequence-level training method based on a novel reinforcement algorithm to reduce the variance and stabilize the training procedure and an innovative Transformer
+decoder named FS-decoder to fuse the target sequential information into the top layer of the decoder ; Machine Translation
 - [ACL] [Imitation Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.02041.pdf)
+<br>an imitation learning framework for non-autoregressive machine translation
 - [AAAI] [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/pdf/1902.10245.pdf)
 <br>address repeated translations and incomplete translations by improving the quality of decoder hidden representations via two auxiliary regularization terms in the training process of an NAT model ; Machine Translation
 - [AAAI] [Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input](https://arxiv.org/pdf/1812.09664.pdf)
