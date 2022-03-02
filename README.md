@@ -61,10 +61,11 @@ Non-Autoregressive Generation Progress
 - [AAAI] [Fine-Tuning by Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1911.08717.pdf)
 
 ### 2019
+- [PMLR] [Insertion Transformer:flexible sequence generation via insertion operations](http://proceedings.mlr.press/v97/stern19a/stern19a.pdf)
 - [arXiv] [Non-autoregressive Transformer by Position Learning](https://arxiv.org/pdf/1911.10677.pdf)
 <br>a non-autoregressive model which incorporates positions as a latent variable into the text generative process ; machine translation , paraphrase generation
 - [NeurIPS] [Levenshtein Transformer](https://papers.nips.cc/paper/9297-levenshtein-transformer.pdf)
-- 
+<br>a non-autoregressive model whose the basic operations are insertion and deletion
 - [NeurIPS] [Fast Structured Decoding for Sequence Models](https://arxiv.org/pdf/1910.11555.pdf)
 <br>design an efficient approximation for Conditional Random Fields (CRF) for non-autoregressive sequence models ; Machine Translation
 - [NeurIPS] [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/pdf/1905.09263.pdf)
