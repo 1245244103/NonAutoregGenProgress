@@ -67,9 +67,11 @@ Non-Autoregressive Generation Progress
 - [NeurIPS] [Fast Structured Decoding for Sequence Models](https://arxiv.org/pdf/1910.11555.pdf)
 - [NeurIPS] [FastSpeech: Fast, Robust and Controllable Text to Speech](https://arxiv.org/pdf/1905.09263.pdf)
 - [EMNLP] [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://arxiv.org/pdf/1904.09324.pdf)
+<br>first predict all of the target words non-autoregressively, and then repeatedly mask out and regenerate the subset of words ; Machine Translation
 - [EMNLP] [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480.pdf)
 <br>a non-autoregressive sequence generation using latent variable models ; Machine Translation
 - [EMNLP] [Hint-Based Training for Non-Autoregressive Machine Translation](https://www.aclweb.org/anthology/D19-1573.pdf)
+<br>proposed a novel approach to leveraging the hints from hidden states and word alignments to help the training of NART models ; Machine Translation
 - [ACL] [Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation](https://arxiv.org/pdf/1906.09444.pdf)
 <br>propose a sequence-level training method based on a novel reinforcement algorithm to reduce the variance and stabilize the training procedure and an innovative Transformer
 decoder named FS-decoder to fuse the target sequential information into the top layer of the decoder ; Machine Translation
