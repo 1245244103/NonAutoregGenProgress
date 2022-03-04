@@ -52,7 +52,7 @@ Non-Autoregressive Generation Progress
 <br> a non-autoregressive seq2seq model that converts text to speech
 - [ICML] [Aligned Cross Entropy for Non-Autoregressive Machine Translation](https://arxiv.org/pdf/2004.01655.pdf)
 <br>propose aligned cross entropy (AXE) as an alternative loss function for training of non-autoregressive models ; Machine Translation
-- [ICML] [Parallel Machine Translation with Disentangled Context Transformer](https://arxiv.org/pdf/2001.05136.pdf)
+- [ICML] [Non-autoregressive Machine Translation with Disentangled Context Transformer](https://arxiv.org/pdf/2001.05136.pdf)
 - [ICML] [Imputer: Sequence Modelling via Imputation and Dynamic Programming](https://arxiv.org/pdf/2002.08926.pdf)
 - [ICML] [An EM Approach to Non-autoregressive Conditional Sequence Generation](https://arxiv.org/pdf/2006.16378.pdf)
 - [ICLR] [Understanding Knowledge Distillation in Non-autoregressive Machine Translation](https://arxiv.org/pdf/1911.02727.pdf)
@@ -125,4 +125,7 @@ Changhan Wang ([wangchanghan@gmail.com](mailto:wangchanghan@gmail.com))
 - [ICLR] [Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation](https://openreview.net/pdf?id=KpfasTaLUpq)
 - [ICLR] [Bidirectional Variational Inference for Non-Autoregressive Text-to-Speech](https://openreview.net/pdf?id=o3iritJHLfO)
 - [NAACL] [Align-Refine: Non-Autoregressive Speech Recognition via Iterative Realignment](https://aclanthology.org/2021.naacl-main.154.pdf)
-- [] []()
+- [WMT@EMNLP] [The Volctrans GLAT System: Non-autoregressive Translation Meets WMT21](https://aclanthology.org/2021.wmt-1.17.pdf)
+### 2020
+- [EMNLP] [Incorporating a Local Translation Mechanism into Non-autoregressive Translation](https://aclanthology.org/2020.emnlp-main.79.pdf)
+- [ICLR] [Non-Autoregressive Dialog State Tracking](https://openreview.net/pdf?id=H1e_cC4twS)
